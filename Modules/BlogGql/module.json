@@ -1,0 +1,13 @@
+{
+    "name": "BlogGql",
+    "alias": "bloggql",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\BlogGql\\Providers\\BlogGqlServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

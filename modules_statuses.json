@@ -1,0 +1,6 @@
+{
+    "Blog": true,
+    "User": true,
+    "Auth": true,
+    "BlogGql": true
+}
